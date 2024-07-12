@@ -1,0 +1,20 @@
+{
+    "name": "Smart YOU",
+    "short_name": "Smart YOU",
+    "icons": [
+        {
+            "src": "icon1.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "icon2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#28074a",
+    "theme_color": "#6c1dd0"
+}
